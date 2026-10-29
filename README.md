@@ -1,4 +1,4 @@
-# tanccmrturingdev
+# tandcmrturingdev
 
 Terms of Service and Privacy Policies for applications published by Pushan Maharjan ([@mrturingdev](https://github.com/mrturingdev)).
 
@@ -9,3 +9,4 @@ An on-device screenshot classification and organizer mobile app for Android and 
 
 - **Privacy Policy**: [ssclassify/privacy-policy.html](ssclassify/privacy-policy.html)
 - **Terms of Service**: [ssclassify/terms-of-service.html](ssclassify/terms-of-service.html)
+
